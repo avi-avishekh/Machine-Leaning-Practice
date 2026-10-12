@@ -1,0 +1,5 @@
+env_ml/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
